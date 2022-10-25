@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "category_name": "Physics"
+  },
+  {
+    "id": "02",
+    "category_name": "Mathematics"
+  },
+  {
+    "id": "03",
+    "category_name": "Computer Programming"
+  },
+  {
+    "id": "04",
+    "category_name": "Machine Learning"
+  },
+  {
+    "id": "05",
+    "category_name": "Mechanics"
+  },
+  {
+    "id": "06",
+    "category_name": "All courses"
+  }
+]
