@@ -6,7 +6,8 @@
     "course_duration": 10,
     "course_details": "Python is a general-purpose, versatile, and powerful programming language. It's a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you. See why millions of people turn to ours real-world experts to learn Python. Learn at your own pace with hands-on exercises and quizzes. Our courses are frequently updated so you'll always be working from the latest information. This is the training you'll need to become a professional Python developer.",
     "course_image": "https://makeawebsitehub.com/wp-price/uploads/2016/02/learn-code-e1455713167295.jpg",
-    "course_price": "5000.00"
+    "course_price": "5000.00",
+    "rating": "4.5"
   },
   {
     "course_id": "6357c0e14261b771f32a0eed",
@@ -15,7 +16,8 @@
     "course_duration": 8,
     "course_details": "R is a programming language and a free software environment for statistical computing and graphics, widely used by data analysts, data scientists and statisticians. This Specialization covers R software development for building data science tools. As the field of data science evolves, it has become clear that software development skills are essential for producing and scaling useful data science results and products. This Specialization will give you rigorous training in the R language, including the skills for handling complex data, building R packages, and developing custom data visualizations. You'll be introduced to indispensable R libraries for data manipulation, like tidyverse, and data visualization and graphics, like ggplot2. You'll learn modern software development practices to build tools that are highly reusable, modular, and suitable for use in a team-based environment or a community of developers. ",
     "course_image": "https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d-1200-80.jpg",
-    "course_price": ""
+    "course_price": "2000.00",
+    "rating": "3.5"
   },
   {
     "course_id": "6357c0e10958671f9ab0501e",
@@ -24,7 +26,8 @@
     "course_duration": 6,
     "course_details": "The curriculum introduces programmers to foundational concepts including methods, arrays, and lists. Object-oriented programming and design utilizing inheritance, polymorphism, and abstraction will also be covered in this principal course. This course aims to provide beginning programmers with a basic understanding of the Java language and tools as well as object-oriented programming and design. Your career as a program developer starts here. Gain entry-level programing skills in Java language, and prepare yourself to handle any task that is required in any programming job.",
     "course_image": "https://i.pcmag.com/imagery/articles/03mYCJkIdptJX1Soh08tBzt-1..v1630572092.jpg",
-    "course_price": "8000.00"
+    "course_price": "8000.00",
+    "rating": "4.8"
   },
   {
     "course_id": "6357c0e10c6c40da05cf72c3",
@@ -33,7 +36,8 @@
     "course_duration": 4,
     "course_details": "Full stack web development refers to the process of developing both client- and server-side software. That means you can expect anyone with 'full stack' included in their job title to have expertise in several front- and backend languages and frameworks. On the frontend, mastery in HTML and CSS is a common requirement for the field. Developers also tend to use JavaScript, jQuery, or Angular when developing a browser platform. Concerning the backend, full stack development consists of programming servers and databases. A server might call for code in PHP, ASP, Python, or Node, while a database can accept languages like SQL, SQLite, or MongoDB. The first four courses cover front end technologies including HTML, CSS, Vanilla JavaScript, React, and D3. The backend end development, relational database course, and quality assurance certifications cover Node, Express, SQL, testing with Chai, MongoDB and more.",
     "course_image": "https://blog.techliance.com/wp-price/uploads/2020/09/What-is-Full-Stack-Development.jpg",
-    "course_price": "7000.00"
+    "course_price": "7000.00",
+    "rating": "3.8"
   },
   {
     "course_id": "6357c0e196ed45d9371cc485",
@@ -42,7 +46,8 @@
     "course_duration": 3,
     "course_details": "An algorithm is a step-by-step process or set of rules you outline to complete any given action. In mathematics and computer science, algorithms often get used to automate calculations. You do this by defining specific procedures for a computer to take when the user inputs a value—ultimately creating an output. Algorithms are vital to machine learning, data processing, and countless other programming practices. They also allow you to improve the efficiency, performance, speed, and scalability of your code or applications/programs. As a result, algorithms are often created and utilized by developers and software engineers. Data structures organize and store data, making them one of the most fundamental ingredients in creating efficient algorithms and good software design. The ability to manage data also allows for efficient access and modification when programming. Knowledge of creating and designing solid data structures represents an essential skill to code successfully. A few examples of common data structures are arrays, a hierarchical tree, singly and doubly linked lists, stacks, and queues. Data structures organize and store data, making them one of the most fundamental ingredients in creating efficient algorithms and good software design. The ability to manage data also allows for efficient access and modification when programming. Knowledge of creating and designing solid data structures represents an essential skill to code successfully. A few examples of common data structures are arrays, a hierarchical tree, singly and doubly linked lists, stacks, and queues.",
     "course_image": "https://i.ytimg.com/vi/8hly31xKli0/maxresdefault.jpg",
-    "course_price": "5500.00"
+    "course_price": "5500.00",
+    "rating": "4.0"
   },
   {
     "course_id": "6357c0e153ab47ce02d4a88a",
@@ -51,6 +56,7 @@
     "course_duration": 12,
     "course_details": "Discrete Mathematics is a branch of mathematics involving discrete elements that uses algebra and arithmetic. It is increasingly being applied in the practical fields of mathematics and computer science. It is a very good tool for improving reasoning and problem-solving capabilities. This tutorial explains the fundamental concepts of Sets, Relations and Functions, Mathematical Logic, Group theory, Counting Theory, Probability, Mathematical Induction and Recurrence Relations, Graph Theory, Trees and Boolean Algebra. Since the time of Isaac Newton and until quite recently, almost the entire emphasis of applied mathematics has been on continuously varying processes, modeled by the mathematical continuum and using methods derived from the differential and integral calculus. In contrast, discrete mathematics concerns itself mainly with finite collections of discrete objects. With the growth of digital devices, especially computers, discrete mathematics has become more and more important. Discrete structures can be counted, arranged, placed into sets, and put into ratios with one another. Although discrete mathematics is a wide and varied field, there are certain rules that carry over into many topics. The concept of independent events and the rules of product, sum, and PIE are shared among combinatorics, set theory, and probability. In addition, De Morgan's laws are applicable in many fields of discrete mathematics. ",
     "course_image": "https://miro.medium.com/max/1200/1*keHoLXTdpSBAwXCj-Jqvew.jpeg",
-    "course_price": "4500.00"
+    "course_price": "4500.00",
+    "rating": "4.2"
   }
 ]
